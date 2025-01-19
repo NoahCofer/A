@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/A/static/css/main.ee7d1d6b.css",
-    "main.js": "/A/static/js/main.9ea3772a.js",
-    "static/js/787.3bd716bf.chunk.js": "/A/static/js/787.3bd716bf.chunk.js",
+    "main.css": "/A/static/css/main.cbea5b07.css",
+    "main.js": "/A/static/js/main.05c1996e.js",
+    "static/js/453.2fa47005.chunk.js": "/A/static/js/453.2fa47005.chunk.js",
     "static/media/MarioAdrianB.jpg": "/A/static/media/MarioAdrianB.7f44c6d6e341a27d14b3.jpg",
     "static/media/MarioAdrianA.jpg": "/A/static/media/MarioAdrianA.6ba0e06bfa9c1ea75109.jpg",
     "static/media/greekSalad.jpg": "/A/static/media/greekSalad.bed423a1fab5b210e347.jpg",
@@ -17,12 +17,12 @@
     "index.html": "/A/index.html",
     "static/media/home.svg": "/A/static/media/home.bb9a4f747400043cf8cee84548ef3f0c.svg",
     "static/media/star.svg": "/A/static/media/star.eeab3b66be61d7212fc431c9078cae0e.svg",
-    "main.ee7d1d6b.css.map": "/A/static/css/main.ee7d1d6b.css.map",
-    "main.9ea3772a.js.map": "/A/static/js/main.9ea3772a.js.map",
-    "787.3bd716bf.chunk.js.map": "/A/static/js/787.3bd716bf.chunk.js.map"
+    "main.cbea5b07.css.map": "/A/static/css/main.cbea5b07.css.map",
+    "main.05c1996e.js.map": "/A/static/js/main.05c1996e.js.map",
+    "453.2fa47005.chunk.js.map": "/A/static/js/453.2fa47005.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee7d1d6b.css",
-    "static/js/main.9ea3772a.js"
+    "static/css/main.cbea5b07.css",
+    "static/js/main.05c1996e.js"
   ]
 }
