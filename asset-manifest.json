@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/A/static/css/main.ee7d1d6b.css",
+    "main.js": "/A/static/js/main.9ea3772a.js",
+    "static/js/787.3bd716bf.chunk.js": "/A/static/js/787.3bd716bf.chunk.js",
+    "static/media/MarioAdrianB.jpg": "/A/static/media/MarioAdrianB.7f44c6d6e341a27d14b3.jpg",
+    "static/media/MarioAdrianA.jpg": "/A/static/media/MarioAdrianA.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/greekSalad.jpg": "/A/static/media/greekSalad.bed423a1fab5b210e347.jpg",
+    "static/media/restaurantfood.jpg": "/A/static/media/restaurantfood.e8abf5b772b6817189aa.jpg",
+    "static/media/john.jpg": "/A/static/media/john.6b73fd246a999fb8e32e.jpg",
+    "static/media/andrea.jpg": "/A/static/media/andrea.bc130f63daeacfdc7b85.jpg",
+    "static/media/mark.jpg": "/A/static/media/mark.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/jane.jpg": "/A/static/media/jane.02f8c535dd070dee7de5.jpg",
+    "static/media/restaurant.jpg": "/A/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/bruschetta.jpg": "/A/static/media/bruschetta.b4a592ec23a5c55ec102.jpg",
+    "static/media/location.svg": "/A/static/media/location.a591275f785335778cb0b2ff0daef539.svg",
+    "index.html": "/A/index.html",
+    "static/media/home.svg": "/A/static/media/home.bb9a4f747400043cf8cee84548ef3f0c.svg",
+    "static/media/star.svg": "/A/static/media/star.eeab3b66be61d7212fc431c9078cae0e.svg",
+    "main.ee7d1d6b.css.map": "/A/static/css/main.ee7d1d6b.css.map",
+    "main.9ea3772a.js.map": "/A/static/js/main.9ea3772a.js.map",
+    "787.3bd716bf.chunk.js.map": "/A/static/js/787.3bd716bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee7d1d6b.css",
+    "static/js/main.9ea3772a.js"
+  ]
+}
